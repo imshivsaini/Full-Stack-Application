@@ -1,5 +1,5 @@
 
-# precize-assesment
+# Full Stack Application
 
 # To load Frontend/Client :
 - Installation :
